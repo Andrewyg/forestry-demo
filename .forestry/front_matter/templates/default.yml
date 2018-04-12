@@ -1,4 +1,6 @@
 ---
+pages:
+- sdhfu.html
 hide_body: true
 fields:
 - type: text
